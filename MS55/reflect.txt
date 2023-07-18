@@ -1,0 +1,19 @@
+/* Citation and Sources...
+Final Project Milestone 5
+Version 1.0
+Author	Jenny Kim
+Student ID: 139787220
+Email: ykim314@myseneca.ca
+Revision History
+-----------------------------------------------------------
+Date      2023/04/20
+-----------------------------------------------------------
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my project milestones.
+----------------------------------------------------------- */
+
+
+Final project contains 5 Milestone which covered on different aspects of OOP such as dynamic memory allocation, constructors, destructors, class definition, etc. By completing these milestones, I was able to enhance my understanding of these topics and their inter-relationship. I also gained the importance of proper memory management, and the importance of implementing copy constructors and destructors to avoid memory leaks. 
+By working with derived classes and implementing inheritance class was valueble as it allowed me to create more complex and extended code. However, it was challenging while handling the inheritance, such as overloading various operators or virtual classes. Also understanding between virtual function and pure virtual function was also difficult and took me some time to understand their relationship. 
+Using file was also difficult and I often got confused. 
+Although this project was challenging and took many times, it provided an excellent opportunity to practice and apply all knowledge we learned throughout this semester. 
